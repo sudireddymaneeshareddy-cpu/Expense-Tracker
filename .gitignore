@@ -1,0 +1,18 @@
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+
+# Java build files
+expense_tracker/target/
+
+# Local environment files and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
